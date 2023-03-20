@@ -1,4 +1,4 @@
-Knight's Tour using Warnsdorf's rule with Pygame Visualization
+## Knight's Tour using Warnsdorf's rule with Pygame Visualization
 
 This is a Python code that finds the Knight's Tour on a chessboard of size $ n \times n$ , using Warnsdorf's rule, and visualizes the result using the Pygame library. The code is written in Python 3 and can be executed on any platform.
 How it works
